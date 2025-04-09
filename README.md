@@ -46,7 +46,7 @@
 
 ## Languages
 
-- **English** (Fluent)  
+- **English** (Full Professional Proficiency)  
 - **Mandarin** (Native)  
 - **Cantonese** (Native)
 
