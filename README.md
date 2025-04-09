@@ -31,7 +31,7 @@
 ## Agile Experience
 
 - Experienced in **Scrum ceremonies**: Product Backlog Grooming, Sprint Planning, Daily Stand-ups, Reviews, and Retrospectives  
-- Worked closely with developers, designers, and stakeholders to align deliverables and continuously improve team performance  
+- Hands-on professional experience working closely with developers, designers, and stakeholders to align deliverables and continuously improve team performance  
 - Strong understanding of Agile delivery and lifecycle management in both start-up and enterprise settings
 
 ---
