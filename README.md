@@ -53,7 +53,6 @@
 ---
 
 ## GitHub Stats
-- ![Profile Views](https://komarev.com/ghpvc/?username=heykinchan&label=Profile%20views&color=0e75b6&style=flat)
 - ![Kin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=heykinchan&show_icons=true&theme=radical)
 - ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heykinchan&layout=compact&theme=radical)
 
