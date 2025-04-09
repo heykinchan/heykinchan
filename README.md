@@ -53,7 +53,7 @@
 ---
 
 ## GitHub Stats
-- ![Kin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=heykinchan&show_icons=true&theme=radical)
+- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=default)
 - ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heykinchan&layout=compact&theme=radical)
 
 
