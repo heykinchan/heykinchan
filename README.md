@@ -16,7 +16,6 @@ Here is a bit about me:
 
 ## Let’s Connect!
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kinchen1/)
-- [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kinchen1028@gmail.com)
 
 ---
 
