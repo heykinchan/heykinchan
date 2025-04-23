@@ -9,7 +9,7 @@ Here is a bit about me:
 ## Project Highlights
 
 - **[E-commerce Platform](https://github.com/heykinchan/e-commerce-project)**: Built with React, Spring Boot, PostgreSQL, RabbitMQ, and RESTful APIs.
-- **[AI Gym Assistant](https://github.com/heykinchan/ai-gym-trainer)**: Integrated ChatGPT with React, Spring Boot, and Python; deployed on AWS.
+- **AI Gym Assistant**: Integrated ChatGPT with React, Spring Boot, and Python; deployed on AWS.
 - **CMS for Farm Activities**: Developed using React, Azure Functions (TypeScript), Prisma, Azure SQL, and Azure Blob Storage with Microsoft Entra ID for secure authentication.
 
 ---
