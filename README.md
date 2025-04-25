@@ -11,7 +11,7 @@ Here is a bit about me:
 - **Farm Activity Content Management Ssytem**: Developed using React, Azure Functions (TypeScript), Prisma, Azure SQL, and Azure Blob Storage with Microsoft Entra ID for secure authentication.
 - **AI Science & Innovation Education Platform**: Developed and enhancing an AI-powered research and education platform for a tutoring center of 100+ students, using Next.js, offering creative ideation, technical development, report generation, and formatting tools tailored for researchers.
 - **KPI Dashboard & Multi-platform Data Aggregation Engine**: Developed and managing a data integration platform and company-wide KPI dashboard to unify performance metrics across multiple third-party systems used for customer management, brokerage, wealth advisory, and accounting.
-- More details on [My Website >> https://kinchen.dev/](https://kinchen.dev/)
+- More details on [![Website](https://img.shields.io/badge/Website-Visit-blue?style=for-the-badge&logo=googlechrome)]([https://yourwebsite.com](https://kinchen.dev/))
 
 ---
 
