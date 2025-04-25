@@ -8,9 +8,10 @@ Here is a bit about me:
 
 ## Project Highlights
 
-- **[E-commerce Platform](https://github.com/heykinchan/e-commerce-project)**: Built with React, Spring Boot, PostgreSQL, RabbitMQ, and RESTful APIs.
-- **AI Gym Assistant**: Integrated ChatGPT with React, Spring Boot, and Python; deployed on AWS.
-- **CMS for Farm Activities**: Developed using React, Azure Functions (TypeScript), Prisma, Azure SQL, and Azure Blob Storage with Microsoft Entra ID for secure authentication.
+- **Farm Activity Content Management Ssytem**: Developed using React, Azure Functions (TypeScript), Prisma, Azure SQL, and Azure Blob Storage with Microsoft Entra ID for secure authentication.
+- **AI Science & Innovation Education Platform**: Developed and enhancing an AI-powered research and education platform for a tutoring center of 100+ students, using Next.js, offering creative ideation, technical development, report generation, and formatting tools tailored for researchers.
+- **KPI Dashboard & Multi-platform Data Aggregation Engine**: Developed and managing a data integration platform and company-wide KPI dashboard to unify performance metrics across multiple third-party systems used for customer management, brokerage, wealth advisory, and accounting.
+- More details on [My Website >> https://kinchen.dev/](https://kinchen.dev/)
 
 ---
 
