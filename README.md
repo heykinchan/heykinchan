@@ -29,14 +29,6 @@ Here is a bit about me:
 
 ---
 
-## Languages
-
-- **English** (Full Professional Proficiency)  
-- **Mandarin** (Native)  
-- **Cantonese** (Native)
-
----
-
 ## GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heykinchan&layout=compact&theme=radical)
 
